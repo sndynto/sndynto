@@ -1,4 +1,46 @@
-## Hi there 👋
+# Hi there 👋
+
+Welcome to my GitHub profile!
+
+## 👨‍💻 About Me
+I am a developer who enjoys building useful tools, experimenting with new technologies, and contributing to open-source projects.  
+My work focuses on creating practical solutions, exploring innovative ideas, and continuously learning through development.
+
+## 🚀 What I'm Building
+- Open-source tools
+- Experimental software projects
+- Developer utilities
+- Technology exploration projects
+
+## 🛠 Tech & Tools
+- Git
+- GitHub
+- JavaScript
+- Web Technologies
+- Open Source Development
+
+## 📂 Featured Projects
+Here are some projects you might find interesting:
+
+- **Shelby Social Layer**  
+  A project focused on building a social layer for decentralized ecosystems.
+
+- **ShelbyServe**  
+  Experimental infrastructure and service layer project.
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sndynto&show_icons=true&theme=radical)
+
+## 🌱 Currently Learning
+- Advanced software architecture
+- Open-source collaboration
+- Web3 ecosystem development
+
+## 🤝 Let's Connect
+If you're interested in collaboration, open-source, or building new ideas together, feel free to explore my repositories.
+
+---
+⭐ Thanks for visiting my GitHub profile!
 
 <!--
 **sndynto/sndynto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
