@@ -28,8 +28,6 @@ Here are some projects you might find interesting:
 - **ShelbyServe**  
   Experimental infrastructure and service layer project.
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sndynto&show_icons=true&theme=radical)
 
 ## 🌱 Currently Learning
 - Advanced software architecture
